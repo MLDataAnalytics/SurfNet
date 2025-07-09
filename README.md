@@ -145,3 +145,9 @@ If you find our work or this code useful for your research, please consider citi
 ## 📬 Contact
 
 For any questions, collaborations, or further information, please feel free to reach out by opening an issue in this repository.
+
+---
+
+## 🙏 Acknowledgment
+
+This project has been generously supported in part by the National Institutes of Health (NIH) through grants **AG066650**, **U24NS130411**, and **R01EB022573**. We are grateful for their support in making this research possible.
