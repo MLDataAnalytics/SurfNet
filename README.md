@@ -126,6 +126,10 @@ Our work builds upon and relates to several key publications in the field of med
 
 * Hongming Li, Yong Fan, "MDReg-Net: Multi-resolution diffeomorphic image registration using fully convolutional networks with deep self-supervision," Human Brain Mapping, 43 (7), 2218–2231; https://doi.org/10.1002/hbm.25782
 
+* H. Zheng, X. Chen, H. Li, T. Chen, P. Liang and Y. Fan, "SegCSR: Weakly-Supervised Cortical Surfaces Reconstruction from Brain Ribbon Segmentations," 2025 IEEE 22nd International Symposium on Biomedical Imaging (ISBI), Houston, TX, USA, 2025, pp. 1-4, https://doi.org/10.1109/ISBI60581.2025.10980662
+
+
+
 If you find our work or this code useful for your research, please consider citing our paper:
 ```
 @ARTICLE{11063456,
